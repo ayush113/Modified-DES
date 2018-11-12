@@ -22,4 +22,7 @@ The project was implemented in parts: <br/>
 1. DES.py - Implementaion of DES
 2. ThreeDes.py - Implementaion of 3DES
 3. DESnew2.py - Implementation of DESnew2 as specified in the paper.
+4. DES_paramterised.py - Paramterised DES to run n rounds.
+5. 3DES_paramterised.py - Paramterised 3DES to run n rounds.
+6. DESnew2_parameterised.py - Paramterised DESnew2 to run n rounds.
 
