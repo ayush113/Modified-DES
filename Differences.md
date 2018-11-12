@@ -14,3 +14,6 @@ DESnew2 uses 2 simultaneously running DES algorithms,each of these algorithms co
 with each other and exchange their keys at each round. This leads to an operation time equivalent<br/>
 to that of DES but gives an effective key length of 112 bits thus giving more security.
 
+The following image describes this in detail:<br/>
+![Algo](../Images/desnew2.png?raw=true "DES new algorithm")
+
