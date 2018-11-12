@@ -25,4 +25,5 @@ The project was implemented in parts: <br/>
 4. DES_paramterised.py - Paramterised DES to run n rounds.
 5. 3DES_paramterised.py - Paramterised 3DES to run n rounds.
 6. DESnew2_parameterised.py - Paramterised DESnew2 to run n rounds.
+7. Differences.md - Differences between DES based algorithms.
 
