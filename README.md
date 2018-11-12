@@ -27,3 +27,7 @@ The project was implemented in parts: <br/>
 6. DESnew2_parameterised.py - Paramterised DESnew2 to run n rounds.
 7. Differences.md - Differences between DES based algorithms.
 
+
+### Results
+![Tabular Result](../Images/Table.png?raw=true "Comparison in times taken for the algorithms")<br/>
+Comparison in times taken for the algorithms
