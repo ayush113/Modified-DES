@@ -8,3 +8,18 @@
 
 Jay Satish Shinde 16CO118<br/>
 Ayush Kumar 16CO208
+
+### Implementation Details
+The project was implemented in parts: <br/>
+1. Pure python implementation of DES.
+2. Implementation of 3DES using DES.
+3. Implementation of new DES algorithm(s).
+4. Comparison of performances of the algorithms from the perspective of 
+    operational efficiency.
+5. Producing graphical outputs to make observations clearer.
+
+### File Structure
+1. DES.py - Implementaion of DES
+2. ThreeDes.py - Implementaion of 3DES
+3. DESnew2.py - Implementation of DESnew2 as specified in the paper.
+
