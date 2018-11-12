@@ -31,3 +31,7 @@ The project was implemented in parts: <br/>
 ### Results
 ![Tabular Result](../Images/Table.png?raw=true "Comparison in times taken for the algorithms")<br/>
 Comparison in times taken for the algorithms
+
+![Graphical Result](../Images/Graph.png?raw=true "Graph Comparison")<br/>
+Overall comparison in performance
+
