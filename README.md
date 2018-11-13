@@ -35,3 +35,14 @@ Comparison in times taken for the algorithms
 ![Graphical Result](../Images/Graph.png?raw=true "Graph Comparison")<br/>
 Overall comparison in performance
 
+### Conclusion
+The results obtained demonstrate that even though 3DES improves upon the security<br/>
+issues of DES, the operational time of 3DES is very high, in our results the running time<br/>
+of 3DES on an average was as high as 2 to 2.5 times.<br/>
+
+In comparison DESnew2 also improves upon the security flaws of DES by using a key which<br/>
+has an effective length of 112 bits. DESnew2 does this, and at the same time retains<br/>
+the operational efficiency of DES, this algorithm takes almost the same time on average.<br/>
+
+
+
