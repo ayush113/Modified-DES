@@ -3,11 +3,12 @@
 ## The Design and Implementation of a Symmetric Encryption Algorithm Based on DES
 
 <hr/>
+Note : This repository was imported from GitLab
 
 ### Members:
 
-Jay Satish Shinde 16CO118<br/>
-Ayush Kumar 16CO208
+Jay Satish Shinde (16CO118 in this repository)<br/>
+Ayush Kumar (16CO208 in this repository)
 
 ### Implementation Details
 The project was implemented in parts: <br/>
@@ -29,10 +30,10 @@ The project was implemented in parts: <br/>
 
 
 ### Results
-![Tabular Result](../Images/Table.png?raw=true "Comparison in times taken for the algorithms")<br/>
+![Tabular Result](https://github.com/ayush113/Modified-DES/blob/master/Images/Table.png)<br/>
 Comparison in times taken for the algorithms
 
-![Graphical Result](../Images/Graph.png?raw=true "Graph Comparison")<br/>
+![Graphical Result](https://github.com/ayush113/Modified-DES/blob/master/Images/Graph.png)<br/>
 Overall comparison in performance
 
 ### Conclusion
